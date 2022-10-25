@@ -3,7 +3,7 @@ An IoC toolkit
 
 ## Usage
 
-### Inject metadata
+### Decorate
 
 ```js
 import { injectable, inject } from '@tvrcgo/injection'
